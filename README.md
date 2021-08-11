@@ -1,7 +1,7 @@
-# obnoxious.club
+# infyclub
 🌹Website for my team's portfolio
 
-Preview - https://obnoxious.club/
+Preview - https://infy.club/
 
 ![Made with love in Poland](https://madewithlove.now.sh/pl?heart=true)
 
